@@ -1,0 +1,6 @@
+input
+results
+__pycache__
+*.eggs
+*.egg-info
+*.pth
